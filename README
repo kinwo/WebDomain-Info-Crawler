@@ -1,0 +1,10 @@
+This program was originally developed with real use case ¡V automate information retrieval and discovery from specific web information source so that user can get valuable information in very efficient way, timely manner and receive the result in email. User would then make decision based on the result.
+
+This crawler is not fully implemented.
+
+It was purely developed for getting web domain information such as domain ranking from specific sources in very efficient way and in batch.
+
+It is a standalone utility developed in Java with Apache Common HttpClient. It is capable to send HTTP request in multi-threads. The skeleton is developer with extension in mind. It is very simple to be enhanced to support other information source and possibly be further developed as a web crawler or automated information greper.
+
+Author: Henry Chan
+henry@kinwo.net
